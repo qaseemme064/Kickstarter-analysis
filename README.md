@@ -20,7 +20,7 @@ Now my kickstarter sheets looks like below in very simplified form:
 
 Then I have used pivot table to make a desired table that was for theater outcomes based on launch date. 
 
-### **Analysis of Outcomes Based on Launch Date***
+### **Analysis of Outcomes Based on Launch Date**
 So in whole year there was a total of 4064 outcomes and then after selecting only theater from parent category we got a toal of 1369 theaters
 So from the below graph we can see that the number of times the theater was successful in mosly in May which is the peak and the lowest failed campaign is in November. 
 By looking at the trend the success rate is mostly high than the failed campaign 
