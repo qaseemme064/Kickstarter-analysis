@@ -11,7 +11,7 @@ The purpose of the analysis is to explain to louise through visualization about 
 First of all I have started working on the ***kickstarter sheet*** and extracted ***year*** from  the date creation  and used hidden option to hide all the unneccary data that was not required for this report(e.g  currency, spotlight percentage fund etc) to have a good picture of data that requires for the challenge in front.
 
 Now my kickstarter sheets looks like below in very simplified form:
-
+![Screenshot 2022-01-02 030003](https://user-images.githubusercontent.com/96033163/147883708-ad6669b5-0fd9-461b-8954-8b9cc18af7b8.jpg)
 
 Then I have used pivot table to make a desired table that was for theater outcomes based on launch date. 
 
