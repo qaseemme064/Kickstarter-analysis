@@ -8,8 +8,6 @@ Louise’s play Fever came close to its fundraising goal in a short amount of ti
 ### **Purpose**
 The purpose of the analysis is to explain to louise through visualization about the outcomes of the theater by launch date and the outcomes based on goals for plays
 
----
-
 
 ## **Analysis and Challenges**
 First of all I have started working on the ***kickstarter sheet*** and extracted ***year*** from  the date creation  and used hidden option to hide all the unneccary data that was not required for this report(e.g  currency, spotlight percentage fund etc) to have a good picture of data that requires for the challenge in front.
@@ -51,7 +49,6 @@ Based on graph that we got from our detailed data between goals and percentages 
 ### **Challenges and Difficulties Encountered**
 Pivot table was very easy to make. The only challenge was in making table for outcomes based on goals. Need to be vey focused in using formula of countifs. 
 
----
 
 ## **Results**
 
@@ -76,4 +73,4 @@ Pivot table was very easy to make. The only challenge was in making table for ou
 4. ***What are some other possible tables and/or graphs that we could create?***
     - In theater outcomes we could create a graph for years to see the previous year trends of campaign, in the same way we could create a quartile graph as well
 
----
+
