@@ -16,7 +16,8 @@ First of all I have started working on the ***kickstarter sheet*** and extracted
 
 Now my kickstarter sheets looks like below in very simplified form:
 
-<img src="https://user-images.githubusercontent.com/96033163/147883708-ad6669b5-0fd9-461b-8954-8b9cc18af7b8.jpg" width="600" />
+![Screenshot 2022-01-02 030003](https://user-images.githubusercontent.com/96033163/147889068-a9c8d0e7-4029-4e07-b785-ba4b225cade0.jpg)
+
 
 
 Then I have used pivot table to make a desired table that was for theater outcomes based on launch date. 
@@ -26,7 +27,8 @@ So in whole year there was a total of 4064 outcomes and then after selecting onl
 So from the below graph we can see that the number of times the theater was successful in mosly in May which is the peak and the lowest failed campaign is in November. 
 By looking at the trend the success rate is mostly high than the failed campaign 
 
-<img src="https://user-images.githubusercontent.com/96033163/147887774-a9d73d91-6ee1-4fdb-8afa-012256bacc18.png" width="700">
+![theater outcomes vs launch](https://user-images.githubusercontent.com/96033163/147889077-ca080f01-8596-4a84-863d-00e98e605781.png)
+
 
 &nbsp;
 
