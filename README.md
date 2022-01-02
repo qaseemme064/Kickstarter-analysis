@@ -40,8 +40,7 @@ Based on graph that we got from our detailed data between goals and percentages 
 - Less than $1000 campaign has the highest success rate 
 - The campaigns that was between 25000 to 29000 has the highest failed rate 
 
-![theater outcomes vs launch](https://user-images.githubusercontent.com/96033163/147887825-435493a5-b9ea-4d2f-ad4e-d424f3b39295.png)
-
+![Outcomes vs goals](https://user-images.githubusercontent.com/96033163/147889146-71026ff6-64fd-4892-9fe8-1375a2892772.png)
 
 &nbsp;
 
